@@ -23,4 +23,4 @@ We can use the K-S chart to evaluate which customers will default on their cre
 4.Higher recall can be achieved if low precision is acceptable.
 5.We can deploy the model and can be served as an aid to human decision.
 6.Model can be improved with more data and computational resources.
-7.It is important to have models deployed on the cloud with live customer interaction through app or mobile phone so that suspicious activities/a missed payment can be verified real-time with a text message or a push notification.
+7.It is important to have models deployed on the cloud with live customer interaction through app or mobile phone so that suspicious activities/a missed payment can be     verified real-time with a text message or a push notification.
