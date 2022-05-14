@@ -1,5 +1,5 @@
 # Credit-card-defaulters
-based on classification models-
+Based on ML-classification models-
 # 1.Logistic Regression
 # 2.Decision Tree
 # 3.Random forest
